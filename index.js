@@ -83,7 +83,7 @@ const rl = readline.createInterface({
 const promptUser = () => {
   rl.question("Enter a message: ", async (message) => {
     const stream = await openai.chat.completions.create({
-      model: "gpt-4",
+      model: "gpt-3.5-turbo-16k-0613",
       messages: [{ role: "user", content: message }],
       stream: true,
     });
