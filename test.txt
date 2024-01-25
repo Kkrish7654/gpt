@@ -1,3 +1,4 @@
+// done // ->
 ["beer", "food-and-beverages"]
 ["compound-fertilizer", "food-and-beverages"]
 ["fructooligosaccharide", "food-and-beverages"]
@@ -6,6 +7,8 @@
 ["cold-pressed-juice", "food-and-beverages"]
 ["craft-vodka", "food-and-beverages"]
 ["non-alcoholic-concentrated-syrup", "food-and-beverages"]
+
+|| --> Pending
 ["nuts-and-nutmeals", "food-and-beverages"]
 ["yeast-and-yeast-extract", "food-and-beverages"]
 ["carbonated-beverage-processing-equipment", "food-and-beverages"]
@@ -24,6 +27,9 @@
 ["plant-based-protein", "food-and-beverages"]
 ["milk-chocolate", "food-and-beverages"]
 ["releasing-agents", "food-and-beverages"]
+
+
+|| --> Pending
 ["bacteriocide", "food-and-beverages"]
 ["reishi-mushroom-extract", "food-and-beverages"]
 ["aspartic-acid", "food-and-beverages"]
@@ -42,6 +48,10 @@
 ["starch-derivatives", "food-and-beverages"]
 ["liquid-sugar", "food-and-beverages"]
 ["bakers-yeast", "food-and-beverages"]
+
+
+
+
 ["freeze-dried-coffee", "food-and-beverages"]
 ["gummy-vitamin", "food-and-beverages"]
 ["calcium-gluconate", "food-and-beverages"]
@@ -65,6 +75,9 @@
 ["flavored-milk", "food-and-beverages"]
 ["food-grade-glycerin", "food-and-beverages"]
 ["thaumatin", "food-and-beverages"]
+
+
+
 ["food-authentication-testing", "food-and-beverages"]
 ["functional-flour", "food-and-beverages"]
 ["functional-mushrooms", "food-and-beverages"]

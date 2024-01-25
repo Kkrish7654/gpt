@@ -29,17 +29,25 @@ function mainPrompt(market) {
 }
 
 const dataArray = [
-  ["pufa-in-global", "food-and-beverages"],
-  ["paleo-food", "food-and-beverages"],
-  ["instant-coffee", "food-and-beverages"],
-  ["beer", "food-and-beverages"],
-  ["compound-fertilizer", "food-and-beverages"],
-  ["fructooligosaccharide", "food-and-beverages"],
-  ["tempeh", "food-and-beverages"],
-  ["coconut-products", "food-and-beverages"],
-  ["cold-pressed-juice", "food-and-beverages"],
-  ["craft-vodka", "food-and-beverages"],
+  ["nuts-and-nutmeals", "food-and-beverages"],
   ["non-alcoholic-concentrated-syrup", "food-and-beverages"],
+  ["yeast-and-yeast-extract", "food-and-beverages"],
+  ["carbonated-beverage-processing-equipment", "food-and-beverages"],
+  ["wellness-supplement", "food-and-beverages"],
+  ["immune-health-supplements", "food-and-beverages"],
+  ["protective-cultures", "food-and-beverages"],
+  ["hyaluronic-acid", "food-and-beverages"],
+  ["fortified-bakery", "food-and-beverages"],
+  ["indian-isotonic-drinks", "food-and-beverages"],
+  ["cooking-oils-fats", "food-and-beverages"],
+  ["premium-alcoholic-beverages", "food-and-beverages"],
+  ["food-automation", "food-and-beverages"],
+  ["salts-and-flavored-salts", "food-and-beverages"],
+  ["halal-ingredients", "food-and-beverages"],
+  ["craft-spirits", "food-and-beverages"],
+  ["plant-based-protein", "food-and-beverages"],
+  ["milk-chocolate", "food-and-beverages"],
+  ["releasing-agents", "food-and-beverages"],
 ];
 
 const convertedArray = dataArray.map(([market]) => {
